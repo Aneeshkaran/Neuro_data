@@ -29,7 +29,7 @@ Exploratory analysis of the NeuroFace video dataset.
 
 - Loads video metadata for all three subject groups: **ALS** (11 subjects, 76 videos), **PS** (14 subjects, 105 videos), and **HC** (11 subjects, 80 videos)
 - Investigates task coverage across subjects (9 facial tasks per subject: BLOW, BROW, BIGSMILE, KISS, etc.)
-- Identifies missing videos and data imbalance (261 expected vs 216 actual videos)
+- Identifies missing videos and data imbalance 
 - Visualizes subject and task distributions using Seaborn/Matplotlib
 
 ### 2. `facial_landmark_detection.ipynb`
